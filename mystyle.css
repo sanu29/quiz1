@@ -299,27 +299,9 @@ body{
 bottom: -30%;
 right: -50%;
 }
-.teamimg1{
-	height: 200px;
-	display: flex;
-	justify-content: flex-end;
-	align-self: flex-end;
-  	position: absolute;
-  bottom: -73px;
-  left: -100px;
 
-}
 
-.pic21{
-	height: 200px;
-	display: flex;
-	justify-content: flex-end;
-	align-self: flex-end;
-  position: absolute;
-   top: -68px;
-  right: -8px;
 
-}
 
 .score{
 	display: flex;
